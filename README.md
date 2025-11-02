@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Roaa 👋 </h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A passionate Software Developer/Tester </h3>
 
-- 🌱 I’m currently learning **Flutter , Andriod**
+- 🌱 I’m currently learning **Software Testing**
 
-- 💬 Ask me about **Flutter , Dart , Java**
+- 💬 Ask me about **Manual and Automation Testing, Flutter ,Dart , Java**
 
 - 📫 How to reach me **roaa.ayman.mail@gmail.com**
 
